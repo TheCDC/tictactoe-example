@@ -5,12 +5,8 @@
 class IllegalMoveError(Exception):
 
     """Just a tic-tac-toe specific error."""
-
-    def __init__(self):
-        pass
-
-    def __str__(self):
-        pass
+    
+    pass
 
 
 class Board():
